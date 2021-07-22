@@ -1,6 +1,0 @@
-<!--pages/home/home.wxml-->
-<text class="title">Hollo Word</text>
-<button size="mini">按钮</button>
-<image src=""></image>
-
-<view>liulonglong</view>
